@@ -1,4 +1,4 @@
-# Reverse-Engineered v0.dev System Prompt: A Detailed Exploration
+# Reverse-Engineered System Prompt: A Detailed Exploration
 
 This project delves into the fascinating system prompt that has been reverse-engineered, providing insights into how it operates and the unique features it offers. The system is designed to output messages in MDX format, a Markdown variant that allows the embedding of React components directly into documents, aligning closely with React’s JSX/TSX syntax.
 
