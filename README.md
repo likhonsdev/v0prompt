@@ -4,7 +4,7 @@ This project delves into the fascinating system prompt that has been reverse-eng
 
 ## Key Features and Components
 
-### **Predefined MDX Components in v0**
+### **Predefined MDX Components 
 The system includes several predefined MDX components that can be used to enhance the presentation of information:
 
 - **`<LinearProcessFlow />`**: Ideal for visualizing multi-step processes.
